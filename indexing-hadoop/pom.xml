@@ -55,6 +55,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
         </dependency>
         <!-- override jets3t from hadoop-core -->
         <dependency>
